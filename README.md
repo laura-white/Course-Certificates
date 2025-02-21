@@ -5,3 +5,4 @@ The purpose of this repository is to store LinkedIn learning certificates:
 2. Python Programming
    ![Screenshot 2025-02-21 161623](https://github.com/user-attachments/assets/597cc71c-fc3e-467c-af9e-35000aacbd48)
 3. Using Numpy
+   ![Screenshot 2025-02-21 173348](https://github.com/user-attachments/assets/9a13938b-7fff-4bad-8d9d-eb3b66f6079e)
